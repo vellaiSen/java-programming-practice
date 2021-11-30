@@ -5,7 +5,7 @@ public class SQLTrainer extends Trainer {
 
  public SQLTrainer()
  {
-	 super("java", "payilagam");
+	 super("CSE", "payilagam");
 //	 System.out.println("no-arg sub class constructor");
  }
 	public static void main(String[] args) {
