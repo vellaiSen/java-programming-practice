@@ -18,7 +18,7 @@ public Trainer(String dept, String institute)
 {
 	this.dept = dept;
 	this.institute = institute;
-	System.out.println("parent class constructor");
+	//System.out.println("parent class constructor");
 }
 
 	public static void main(String[] args) {
