@@ -1,1 +1,1 @@
-# oops-scenerio-practice
+# Practice java concepts
