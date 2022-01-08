@@ -1,8 +1,8 @@
 package payilagam;
 
 public class Trainer {
-String dept;
-String institute;
+String dept = "java";
+String institute = "payilagam";
 private int salary = 10000;
 
 public int getSalary()
@@ -11,7 +11,7 @@ public int getSalary()
 }
 public void training()
 {
-	System.out.println("training");
+	System.out.println("training given by trainer");
 }
 
 public Trainer(String dept, String institute)
@@ -22,7 +22,7 @@ public Trainer(String dept, String institute)
 }
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		Trainer trainerKumar = new Trainer("CSE","payilagam");
 		
 	}
